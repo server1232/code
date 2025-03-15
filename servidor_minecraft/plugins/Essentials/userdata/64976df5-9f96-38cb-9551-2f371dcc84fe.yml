@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.18.190.66
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1742079049580
+  login: 1742078918715
+money: '0'
+last-account-name: lugoflen
+logoutlocation:
+  world: fa748e83-bf00-47e9-b4c0-08a5fe44b681
+  world-name: world
+  x: -159.27638297024077
+  y: 64.0
+  z: 97.05737402032234
+  yaw: 12.0
+  pitch: 17.550003051757812
